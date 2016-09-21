@@ -27,6 +27,7 @@
 - 熟悉物理引擎、GUI控件、Navigation导航系统,Animator动画控制器
 - 熟练使用SqlServer和Mysql等数据库进行数据操作
 - 使用过GitHub开发团队项目、对单例模式、协程、invoke、PlayerPrefs保存数据有研究
+- 了解Vuforia进行简单AR开发
 - 了解A星插件实现怪物的寻路,XML进行文件读写,缓存池等方法,进行游戏优化
 - 了解Socket和使用PhotonServer进行服务器框架搭建
 
